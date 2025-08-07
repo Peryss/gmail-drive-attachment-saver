@@ -1,5 +1,9 @@
 # 📥 Gmail to Google Drive Attachment Saver
 
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+![Status](https://img.shields.io/badge/status-active-success)
+
 A Python automation tool that connects to your Gmail account, fetches email attachments after a specific date, and saves them to Google Drive with a clear folder structure.
 
 ---
