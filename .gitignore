@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Local config & credentials
+client_secret.json
+token.json
+downloaded_attachments.json
+
+# OS-specific
+.DS_Store
+Thumbs.db

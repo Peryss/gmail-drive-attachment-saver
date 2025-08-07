@@ -1,0 +1,11 @@
+{
+  "scopes": [
+    "https://www.googleapis.com/auth/gmail.readonly",
+    "https://www.googleapis.com/auth/drive.file"
+  ],
+  "base_folder_name": "Saved Attachments",
+  "after_date": "2025/07/01",
+  "max_results": 100,
+  "log_file": "downloaded_attachments.json",
+  "ignored_extensions": [".jpg", ".jpeg", ".png"]
+}
